@@ -48,14 +48,17 @@ Exploratory analysis performed to understand patterns and relationships in the d
 
 ## 📏KPIs & metrics
 Key metrics found in the analysis:
-- **KPI 1:**
-- **KPI 2:**
-- **KPI 3:**
+- **KPI 1:** Churn Rate - 27%
+- **KPI 2:** Retention Rate - 73%
+- **KPI 3:** Minimium Revenue Lost - 139,130.85
+- **KPI 4:** Highest Churn Segment - Month-to-Month contracts
+- **KPI 5:** Most Common Internet Service: Fiber Optic
+- **KPI 6:** Top Churned Tenure Group: 1-month tenure customers
 
 ---
 
 ## 📊Dashboard Preview
--
+- !(visualization/image.png)
 
 ### Description of visuals created
 - **Purposed of the dashboard:**
