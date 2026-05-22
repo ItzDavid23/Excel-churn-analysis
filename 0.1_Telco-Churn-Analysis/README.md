@@ -61,27 +61,29 @@ Key metrics found in the analysis:
 - ![Dashboard](visualization/image.png)
 
 ### Description of visuals created
-- **Purposed of the dashboard:**
-- **Charts used:**
-- **Filters, slices:**
+- **Purposed of the dashboard:** The dashboard was designed to provide a business-oriented overview of customer churn behavior, enabling users to identify retention risks, revenue impact and service-related churn patterns interactively.
+- **Charts used:** KPI cards, comparison charts.
+- **Filters, slices:** Telephone service, internet service type, senior cityzen status, churn status.
 ---
 
 ## 💡Key Insights
 Main findings derived from the analysis:
-- **Insight 1:**
-- **Insight 2:**
-- **Insight 3:**
+- **Insight 1:** Customers with Month-to-Month contracts showed the highest churn probability.
+- **Insight 2:** Fiber Optic users presented higher churn levels compared to DSL users.
+- **Insight 3:** Short-tenure customers were significantly more likely to leave the service.
+- **Insight 4:** Senior citizen demonstrated higher churn behavior.
+- **Insight 5:** Customer retention improves considerably with long-term contracts.
 
 ---
 
 ## 🛠Tools used
 - Microsoft Excel
-  - Formulas & Functions:
-  - Pivot Tables:
-  - Charts: 
-  - Power Query: 
+  - Formulas & Functions: IF, COUNTIF, SUMIF,Sheet & Cell Referencing, ROUND.
+  - Analysis: Pivot Tables, Pivot Charts, KPI metrics.
+  - Visualization: Slicers, Dynamic Charts.
+  - Data Preparation: Data Cleaning, Data Transformation.
 
 ---
 
 ## 📌Notes
-This projects is part of my Excel Data Analysis Portfolio and is intended for learning and Professional development as a Junio Data Analyst.
+This projects is part of my Excel Data Analysis Portfolio and is intended for learning and Professional development as a Junior Data Analyst.
