@@ -58,7 +58,7 @@ Key metrics found in the analysis:
 ---
 
 ## 📊Dashboard Preview
-- !(visualization/image.png)
+- ![Dashboard](visualization/image.png)
 
 ### Description of visuals created
 - **Purposed of the dashboard:**
