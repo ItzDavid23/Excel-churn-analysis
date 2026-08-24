@@ -4,9 +4,7 @@
 ---
 
 ## 📝Description
-Brief description of the project and the business problem being analyzed.
-
-Example: This project focuses on analysis customer churn data to identify patterns and factors that influece customer retention using Excel.
+This project focuses on analysis customer churn data to identify patterns and factors that influece customer retention using Excel.
 
 ---
 
